@@ -9,7 +9,7 @@ package evilcorp;
  *
  * @author 505
  */
-public class empresa {
+public class Empresa {
 
     /**
      * @param args the command line arguments
